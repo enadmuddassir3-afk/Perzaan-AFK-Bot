@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Everyone214.aternos.me:",
+    "ip": "Everyone214.aternos.me",
     "port": 38945,
     "version": "1.21.1"
   },
